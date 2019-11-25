@@ -36,6 +36,8 @@ module.exports = function(treatmentName, settings, stager, setup, gameRoom) {
             return node.JSUS.isInt(n, -1, 101);
         };
 
+        // This is a test change.
+
         // Additional debug information while developing the game.
         // this.debugInfo = node.widgets.append('DebugInfo', header)
     });
